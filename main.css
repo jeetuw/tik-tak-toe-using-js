@@ -1,0 +1,69 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+body {
+  background-color: black;
+}
+
+h1 {
+  padding: 10px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: rebeccapurple;
+  font-size: 45px;
+  background-color: #151515;
+  text-shadow: 3px 3px 0px black;
+}
+
+#b1,
+#b2,
+#b3,
+#b4,
+#b5,
+#b6,
+#b7,
+#b8,
+#b9 {
+  width: 80px;
+  height: 52px;
+  margin: auto;
+  border: 1px solid gray;
+  border-radius: 6px;
+  font-size: 30px;
+  text-align: center;
+  color: yellow;
+  box-shadow: 1px 1px 2px 0px white;
+}
+
+#but {
+  box-sizing: border-box;
+  width: 95px;
+  height: 40px;
+  margin: auto;
+  border-radius: 4px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rebeccapurple;
+  color: white;
+  font-size: 20px;
+  box-shadow: 1px 1px 2px 0px white;
+  cursor: pointer;
+}
+
+#print {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: dodgerblue;
+  font-size: 20px;
+}
+
+#main {
+  text-align: center;
+}
+
+#ins {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: dodgerblue;
+  font-size: 17px;
+}
